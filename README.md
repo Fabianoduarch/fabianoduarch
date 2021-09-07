@@ -2,9 +2,8 @@
 
 <div>
   <a href="https://beacons.ai/fabianoduarch">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabianoduarch&show_icons=true=tokyonight&include_all_comits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?top-langs/?username=Fabianoduarch&layout=compact&langs_count=16&theme=tokyonight"/>
-    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabianoduarch&show_icons=true=dark&include_all_comits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?top-langs/?username=Fabianoduarch&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
